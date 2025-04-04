@@ -41,10 +41,9 @@ myContacts is a secure backend application that allows users to manage their per
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/myContacts.git
+git clone https://github.com/ThrigunChandra/myContacts.git
 cd myContacts
 npm install
-Great call. Here's an updated `README.md` that includes a `.env` section to guide users on setting up environment variables.
 ```
 ---
 
